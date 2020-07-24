@@ -4,7 +4,6 @@ email: ""
 description: "playful bitcoin things"
 url: "https://amitiuttarwar.github.io"
 baseurl: "/thebitcoinzine"
-facebook_username: ""
 twitter_username: ""
 instagram_username: ""
 github_username:  ""
@@ -15,7 +14,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name: amizi
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -34,7 +33,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://amitiuttarwar.github.io/thebitcoinzine/gallery/"
-  - JOURNAL: "https://amitiuttarwar.github.io/thebitcoinzine/journal/"
   - ABOUT: "https://amitiuttarwar.github.io/thebitcoinzine/about/"
 
 # All translation keys
@@ -52,11 +50,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
-gems: 
+#paginate_path: "/journal/page:num/"
+#permalink: "/journal/:title/"
+#categories_path: "/journal/category/"
+#tags_path: "/journal/tag/"
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
