@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: THE BITCOIN ZINE
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "playful bitcoin things"
+url: "https://amitiuttarwar.github.io"
+baseurl: "/thebitcoinzine"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://amitiuttarwar.github.io/thebitcoinzine/gallery/"
+  - JOURNAL: "https://amitiuttarwar.github.io/thebitcoinzine/journal/"
+  - ABOUT: "https://amitiuttarwar.github.io/thebitcoinzine/about/"
 
 # All translation keys
 translations:
