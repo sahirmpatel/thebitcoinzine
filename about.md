@@ -5,14 +5,13 @@ permalink: /about
 ---
 # About the Comic
 
-Nulla scelerisque massa erat, ac fermentum tellus luctus a. Quisque turpis massa, scelerisque non mauris ac, mattis vehicula magna. Nunc viverra diam quis est dictum consequat. Quisque non sapien lectus. Integer a ligula ac velit euismod lobortis. Nullam commodo orci a magna varius, sed laoreet nulla auctor.
-
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
+We so often refer to the culture surrounding Bitcoin, but what does that mean
+outside of the intangible ramblings strewn across crypto Twitter, mailing
+lists, and chat rooms? This is an attempt at visually memorializing the many
+stories of Bitcoin as we see it. Zines, or similar literary outlets, have
+served as an expressive outlet for sub-culture uprising for centuries. The
+Bitcoin Zine intends to continue that trend for the movement around the open
+source, private, free money revolution.
 
 {% include socialmedia.html %}
 
-# About the Author
-
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
-
-{% include authorsocialmedia.html %}
