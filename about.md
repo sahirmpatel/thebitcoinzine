@@ -3,7 +3,6 @@ layout: default
 title: About
 permalink: /about
 ---
-# About the Comic
 
 We so often refer to the culture surrounding Bitcoin, but what does that mean
 outside of the intangible ramblings strewn across crypto Twitter, mailing
