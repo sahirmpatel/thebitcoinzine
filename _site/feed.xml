@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Bitcoin Zine</title>
+    <description>light-hearted bitcoin things</description>
+    <link>https://amitiuttarwar.github.io/thebitcoinzine/</link>
+    <atom:link href="https://amitiuttarwar.github.io/thebitcoinzine/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Nov 2020 21:39:00 +0530</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2020 21:39:00 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>4</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://amitiuttarwar.github.io/thebitcoinzine/pages/004.jpg&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:12:56 +0530</pubDate>
+        <link>https://amitiuttarwar.github.io/thebitcoinzine/004</link>
+        <guid isPermaLink="true">https://amitiuttarwar.github.io/thebitcoinzine/004</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://amitiuttarwar.github.io/thebitcoinzine/pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:12:56 +0530</pubDate>
+        <link>https://amitiuttarwar.github.io/thebitcoinzine/003</link>
+        <guid isPermaLink="true">https://amitiuttarwar.github.io/thebitcoinzine/003</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>2</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://amitiuttarwar.github.io/thebitcoinzine/pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:12:56 +0530</pubDate>
+        <link>https://amitiuttarwar.github.io/thebitcoinzine/002</link>
+        <guid isPermaLink="true">https://amitiuttarwar.github.io/thebitcoinzine/002</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>1</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://amitiuttarwar.github.io/thebitcoinzine/pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 00:12:56 +0530</pubDate>
+        <link>https://amitiuttarwar.github.io/thebitcoinzine/001</link>
+        <guid isPermaLink="true">https://amitiuttarwar.github.io/thebitcoinzine/001</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+  </channel>
+</rss>
